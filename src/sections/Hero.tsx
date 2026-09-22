@@ -193,7 +193,7 @@ export default function Hero() {
               </div>
             </a>
             
-            <a href="/CV.pdf" target="_blank" className="fade-up group relative inline-flex h-14 items-center justify-center rounded-full border border-white/20 bg-white/5 backdrop-blur-md px-8 font-medium text-white transition-all hover:bg-white/10 hover:border-white/30 active:scale-95">
+            <a href="/Resume.pdf" target="_blank" className="fade-up group relative inline-flex h-14 items-center justify-center rounded-full border border-white/20 bg-white/5 backdrop-blur-md px-8 font-medium text-white transition-all hover:bg-white/10 hover:border-white/30 active:scale-95">
               <span className="mr-2">Download CV</span>
               <Download className="w-4 h-4 group-hover:-translate-y-1 transition-transform" />
             </a>
