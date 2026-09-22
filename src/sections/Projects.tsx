@@ -3,7 +3,7 @@ import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { useGSAP } from '@gsap/react';
 import { projects } from '../data';
-import { ExternalLink, MonitorPlay } from 'lucide-react';
+import { ExternalLink } from 'lucide-react';
 import ProjectModal from '../components/ProjectModal';
 
 const GithubIcon = ({ className }: { className?: string }) => (

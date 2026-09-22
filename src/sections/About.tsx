@@ -1,6 +1,5 @@
-import React from 'react';
 import { motion } from 'framer-motion';
-import { User, Code2, Cloud, ArrowRight } from 'lucide-react';
+import { User, Code2, Cloud } from 'lucide-react';
 
 
 
